@@ -10,22 +10,55 @@ Our vision is to create a decentralized marketplace where information can be tra
 
 ## Flowchart
 
-### Overview of Process Flow:
+  +----------------------+
+  |        Start         |
+  +----------------------+
+            |
+            v
+  +----------------------+
+  | Seller Adds          |
+  | Information          |
+  +----------------------+
+            |
+            v
+  +----------------------+
+  | Buyer Browses        |
+  | Information          |
+  +----------------------+
+            |
+    +-------+-------+
+    |               |
+    v               v
++-------------------+        +----------------------+
+| Buyer Wants to    | -----> | Buyer Doesn't Want to|
+| Purchase?         |        | Purchase?            |
++-------------------+        +----------------------+
+            |                        |
+            v                        v
+  +----------------------+
+  | Buyer Purchases      |
+  | Information          |
+  +----------------------+
+            |
+    +-------+-------+
+    |               |
+    v               v
++-------------------+        +----------------------+
+| Is Ether Correct? | -----> | Incorrect Ether,     |
+|                   |        | Abort Transaction    |
++-------------------+        +----------------------+
+            |
+            v
+  +----------------------+
+  | Buyer Retrieves      |
+  | Information          |
+  +----------------------+
+            |
+            v
+  +----------------------+
+  |         End          |
+  +----------------------+
 
-1. **Seller**:
-   - Adds information to the platform, setting a price in Ether.
-   - Information is stored on the blockchain, along with the seller's address and the price.
-
-2. **Buyer**:
-   - Selects information to purchase and sends the required amount of Ether to the contract.
-   - The contract automatically transfers the Ether to the seller upon successful purchase.
-   - Buyer can retrieve the purchased information.
-
-3. **Contract**:
-   - Manages listings, transactions, and data retrieval.
-   - Ensures that only paid information is accessible to buyers.
-
-(You can include a simple flowchart image in your repository to visually represent this process.)
 
 ## Smart Contract
 
