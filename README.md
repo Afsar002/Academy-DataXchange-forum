@@ -1,6 +1,7 @@
 # Academy-DataXchange-forum
 ---
 # InfoExchangeDApp
+![image](https://github.com/user-attachments/assets/9faf1cb5-fe5a-4473-8705-68fdf25adbec)
 
 **InfoExchangeDApp** is a decentralized application that enables secure and seamless exchange of information for Ether on the Ethereum blockchain. The platform empowers users to monetize their data and access valuable information through transparent and trustless transactions.
 
@@ -58,5 +59,3 @@ For inquiries, suggestions, or contributions, please reach out to:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README provides a clear and concise overview of your project while addressing all the requested details. Make sure to update the placeholder content with your actual contract address, name, and contact information.
