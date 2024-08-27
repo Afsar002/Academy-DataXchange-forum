@@ -29,7 +29,7 @@ Our vision is to create a decentralized marketplace where information can be tra
 
 ## Smart Contract
 
-- **Contract Address**: `0xYourContractAddressHere`
+- **Contract Address**: `0xc81644414ea1f27119b871b09ee9176a7365767a`
 - **Network**: Deployed on the Ethereum Rinkeby Testnet
 
 ### Key Functions:
