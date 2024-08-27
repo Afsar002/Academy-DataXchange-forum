@@ -1,7 +1,9 @@
 # Academy-DataXchange-forum
+![image](https://github.com/user-attachments/assets/f1ac9815-cec0-4246-aae1-af5ec454485e)
+
+
 ---
 # InfoExchangeDApp
-![image](https://github.com/user-attachments/assets/9faf1cb5-fe5a-4473-8705-68fdf25adbec)
 
 **InfoExchangeDApp** is a decentralized application that enables secure and seamless exchange of information for Ether on the Ethereum blockchain. The platform empowers users to monetize their data and access valuable information through transparent and trustless transactions.
 
@@ -29,6 +31,8 @@ Our vision is to create a decentralized marketplace where information can be tra
 ## Smart Contract
 
 - **Contract Address**: `0xc81644414ea1f27119b871b09ee9176a7365767a`
+- ![image](https://github.com/user-attachments/assets/54936668-0daf-4fb5-8d10-301f73dee622)
+
 - **Network**: Deployed on the Ethereum Rinkeby Testnet
 
 ### Key Functions:
